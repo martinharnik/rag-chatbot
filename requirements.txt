@@ -1,5 +1,4 @@
 langchain
-langchain-community
 torch
 sentence_transformers
 faiss-cpu
