@@ -1,4 +1,4 @@
-# Understanding the EU AI Act QA System Implementation
+# RAG
 
 This code showcases a Question-Answering system designed specifically for analyzing the EU **AI Act**. 
 
